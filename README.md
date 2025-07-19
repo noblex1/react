@@ -1,4 +1,5 @@
 # React to MERN Stack Developer Course 🚀
+***A course by Tiisu***
 
 **From Zero to Job-Ready React Developer**
 
