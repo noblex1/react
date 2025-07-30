@@ -131,8 +131,8 @@ Each module follows this structure:
 ## 📞 Support and Community
 
 - 💬 **Discussion Forum**: 
-- 🐛 **Report Issues**:
-- 📧 **Contact**: 
+- 🐛 **Report Issues**:  tiisusharif@gmail.com
+- 📧 **Contact**: tiisusharif@gmail.com
 
 ## 📄 License
 
